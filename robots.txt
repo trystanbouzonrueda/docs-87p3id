@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ht3wji.plcwin.xyz/sitemap.xml
